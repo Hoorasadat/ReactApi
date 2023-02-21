@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myfriends/static/css/main.2c2f740f.css",
+    "main.js": "/myfriends/static/js/main.7bd1385b.js",
+    "static/js/787.d3486ab2.chunk.js": "/myfriends/static/js/787.d3486ab2.chunk.js",
+    "static/media/1.jpeg": "/myfriends/static/media/1.07d601487b2fe29656ee.jpeg",
+    "static/media/4.jpeg": "/myfriends/static/media/4.a39cc738c8328148fbe1.jpeg",
+    "static/media/2.jpeg": "/myfriends/static/media/2.6dd743e8dd8288ce281d.jpeg",
+    "static/media/3.jpeg": "/myfriends/static/media/3.955327c561e1c201c3ec.jpeg",
+    "static/media/5.jpeg": "/myfriends/static/media/5.7318c8f1fa43193f056b.jpeg",
+    "static/media/SEGA.woff": "/myfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "static/media/logo.svg": "/myfriends/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/myfriends/index.html",
+    "main.2c2f740f.css.map": "/myfriends/static/css/main.2c2f740f.css.map",
+    "main.7bd1385b.js.map": "/myfriends/static/js/main.7bd1385b.js.map",
+    "787.d3486ab2.chunk.js.map": "/myfriends/static/js/787.d3486ab2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c2f740f.css",
+    "static/js/main.7bd1385b.js"
+  ]
+}
